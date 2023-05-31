@@ -23,6 +23,7 @@ header {
 	font-size: 1em;
     transition: top 0.2s ease-in-out;
     background-color: #B9B59F;
+	background-image: url(img/paperbckgrnd.jpg);
     opacity: 0.75;
 }
 
