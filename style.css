@@ -22,7 +22,7 @@ header {
 	z-index: 5; /*(ensures nav bar appears in front of other elements)*/
 	font-size: 1em;
     transition: top 0.2s ease-in-out;
-    background-color: white;
+    background-color: #b9b59f;
     opacity: 0.75;
 }
 
