@@ -22,7 +22,7 @@ header {
 	z-index: 5; /*(ensures nav bar appears in front of other elements)*/
 	font-size: 1em;
     transition: top 0.2s ease-in-out;
-    background-color: #b9b59f;
+    background-color: #B9B59F;
     opacity: 0.75;
 }
 
@@ -66,14 +66,14 @@ nav ul li a:visited {
     display: block;
     padding: 0 20px;
     line-height: 105px;
-    background-color: white;
-    color: green;
+    background-color: #B9B59F;
+    color: #152C18;
     text-decoration: none;
 	font-weight: bold;
 }
 nav ul li a:hover,
 nav ul li a:visited:hover {
-    background-color: black;
+    background-color: #152C18;
     color: white;
 }
 nav ul li a:not(:only-child):after,
