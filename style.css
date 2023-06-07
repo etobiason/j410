@@ -68,7 +68,7 @@ nav ul li a:visited {
     padding: 0 20px;
     line-height: 105px;
     background-color: #B9B59F;
-	background-image: url(img/paperbckgd.jpg.png)
+	background-image: url(img/paperbckgd.jpg.png);
     color: #152C18;
     text-decoration: none;
 	font-weight: bold;
@@ -76,7 +76,7 @@ nav ul li a:visited {
 nav ul li a:hover,
 nav ul li a:visited:hover {
     background-color: #152C18;
-    color: white;
+    color: #DCDED9;
 }
 nav ul li a:not(:only-child):after,
 nav ul li a:visited:not(:only-child):after {
@@ -105,11 +105,11 @@ a.text:link, a.text:visited {
 }
 a.text:hover, a.text:active {
     background-color: white;
-    color: black;
+    color: #DCDED9;
 }
 .row a{
 	color: #1e1f32;
-    font-family: "Open Sans",sans-serif;
+    font-family: "Avenir Next Ultra Light",sans-serif;
     text-transform: uppercase;
     padding: .5rem 1rem;
     padding-right: 2rem;
@@ -123,14 +123,14 @@ a.text:hover, a.text:active {
     font-size: 16px;
     font-weight: 600;
     line-height: initial;
-    background: url(img/arrow.png) #a2ffe8;
+    background: url(img/arrow.png) #92278F;
     background-size: 40px;
     background-repeat: no-repeat;
     background-position: 96%;
 	text-decoration: none;
 }
 .row a:hover{
-	    background-color: #f0f;
+	    background-color: #92278F;
     color: initial;
 	    text-decoration: none;
     transition: all 0.3s ease-in 0s;
