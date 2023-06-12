@@ -283,6 +283,16 @@ h2 {
     margin: 0;
     line-height: initial;
 }
+#gal {
+	font-family: 'American Typewriter',sans-serif;
+    text-align: center;
+    font-size: 75px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #92278f;
+    -webkit-background-clip: text;
+    margin: 0;
+    line-height: initial;
 
 p {
 	line-height: 1.5;
