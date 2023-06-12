@@ -23,7 +23,6 @@ header {
 	font-size: 1em;
     transition: top 0.2s ease-in-out;
     background-color: #B9B59F;
-	background-image: url(img/paperbckgd.jpg.png);
     opacity: 100%;
 }
 
@@ -68,7 +67,6 @@ nav ul li a:visited {
     padding: 0 20px;
     line-height: 105px;
     background-color: #B9B59F;
-	background-image: url(img/paperbckgd.jpg.png);
     color: #152C18;
     text-decoration: none;
 	font-weight: bold;
