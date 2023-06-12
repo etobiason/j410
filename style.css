@@ -11,6 +11,7 @@ body {
 	color: black; /*(default font color for the entire page)*/
 	font-family: 'Source Serif 4 Variable Display', serif;
 	font-weight: 300; /*(font thickness)*/
+	font-size: 15px
 }
 
 /*----------------navigation section-----------------*/
@@ -23,7 +24,7 @@ header {
 	font-size: 1em;
     transition: top 0.2s ease-in-out;
     background-color: #B9B59F;
-    opacity: 50%;
+    opacity: 80%;
 }
 
 /*----------------navigation container-----------------*/
@@ -128,8 +129,8 @@ a.text:hover, a.text:active {
 	text-decoration: none;
 }
 .row a:hover{
-	    background-color: #92278F;
-    color: initial;
+	    background-color: #b9b59f;
+    color: #92278f;
 	    text-decoration: none;
     transition: all 0.3s ease-in 0s;
 }
