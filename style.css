@@ -12,6 +12,8 @@ body {
 	font-weight: 300; /*(font thickness)*/
 	font-size: 15px
 }
+.tab {
+	color: #dcded9
 
 /*----------------navigation section-----------------*/
 header {
