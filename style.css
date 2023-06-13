@@ -287,7 +287,11 @@ p {
 	color: #dcded9;
 	font-size: 30px;
 }
-
+p2 {
+	line-height: 1.5;
+	color: #000000;
+	font-size: 30px;
+}
 /*----------------SLIDESHOW-----------------*/
 
 #slider {
