@@ -245,6 +245,15 @@ a.text:hover, a.text:active {
     background-size: cover;
     background-position: 50% 50%;
 }
+/* GLOBAL STYLES */
+body {
+  background: transparent;
+  padding-top: 5em;
+  display: flex;
+  justify-content: center;
+}
+
+/* DEMO-SPECIFIC STYLES */
 .typewriter h1 {
   color: #dcded9;
   font-family: 'American Typewriter';
@@ -260,8 +269,8 @@ a.text:hover, a.text:active {
 
 /* The typing effect */
 @keyframes typing {
-  from { width: 25% }
-  to { width: 75%% }
+  from { width: 0 }
+  to { width: 100% }
 }
 
 /* The typewriter cursor effect */
