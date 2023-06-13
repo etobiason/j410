@@ -245,8 +245,6 @@ a.text:hover, a.text:active {
     background-size: cover;
     background-position: 50% 50%;
 }
-
-/*----------------Main Content Area(this is where all the content below the navigation bar will go)--*/
 .typewriter h1 {
   color: #dcded9;
   font-family: 'American Typewriter';
@@ -271,6 +269,8 @@ a.text:hover, a.text:active {
   from, to { border-color: transparent }
   50% { border-color: orange }
 }
+
+/*----------------Main Content Area(this is where all the content below the navigation bar will go)--*/
 .row {
 	margin-right: auto;
 	margin-left: auto;
