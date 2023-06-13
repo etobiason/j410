@@ -245,6 +245,8 @@ a.text:hover, a.text:active {
     background-size: cover;
     background-position: 50% 50%;
 }
+
+/*----------------Main Content Area(this is where all the content below the navigation bar will go)--*/
 .typewriter h1 {
   color: #dcded9;
   font-family: 'American Typewriter';
@@ -260,8 +262,8 @@ a.text:hover, a.text:active {
 
 /* The typing effect */
 @keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
+  from { width: 25% }
+  to { width: 75%% }
 }
 
 /* The typewriter cursor effect */
@@ -269,8 +271,6 @@ a.text:hover, a.text:active {
   from, to { border-color: transparent }
   50% { border-color: orange }
 }
-
-/*----------------Main Content Area(this is where all the content below the navigation bar will go)--*/
 .row {
 	margin-right: auto;
 	margin-left: auto;
@@ -306,6 +306,17 @@ h2 {
     margin: 0;
     line-height: initial;
 }
+h3 {
+	font-family: 'American Typewriter',sans-serif;
+    text-align: center;
+    font-size: 75px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #92278f;
+    background: -webkit-linear-gradient(left,#ff005e,#ff01c9,#a700ff);
+    -webkit-background-clip: text;
+    margin: 0;
+    line-height: initial;
 p {
 	line-height: 1.5;
 	color: #dcded9;
