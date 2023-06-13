@@ -278,7 +278,12 @@ body {
   from, to { border-color: transparent }
   50% { border-color: orange }
 }
-
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
 
 /*----------------Main Content Area(this is where all the content below the navigation bar will go)--*/
 .row {
