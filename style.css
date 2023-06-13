@@ -241,7 +241,7 @@ a.text:hover, a.text:active {
 .container {
 	position: relative;
     background-image: url(img/main.jpg);
-    height: 100vh;
+    height: 100%;
     background-size: cover;
     background-position: 50% 50%;
 }
