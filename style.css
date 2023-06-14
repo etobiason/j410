@@ -248,6 +248,7 @@ a.text:hover, a.text:active {
 .typewriter h1 {
   color: #dcded9;
   font-family: 'American Typewriter';
+  text-align: center;
   overflow: hidden; /* Ensures the content is not revealed until the animation */
   border-right: .15em solid orange; /* The typwriter cursor */
   white-space: nowrap; /* Keeps the content on a single line */
@@ -260,8 +261,8 @@ a.text:hover, a.text:active {
 
 /* The typing effect */
 @keyframes typing {
-  from { width: 25% }
-  to { width: 75% }
+  from { width: 0% }
+  to { width: 100% }
 }
 
 /* The typewriter cursor effect */
