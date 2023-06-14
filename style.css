@@ -21,7 +21,7 @@ header {
 	z-index: 5; /*(ensures nav bar appears in front of other elements)*/
 	font-size: 1em;
     transition: top 0.2s ease-in-out;
-    background-color: #dcded9;
+    background-color: #b9b59f;
     opacity: 100%;
 }
 
@@ -260,8 +260,8 @@ a.text:hover, a.text:active {
 
 /* The typing effect */
 @keyframes typing {
-  from { width: 0 }
-  to { width: 100% }
+  from { width: 25% }
+  to { width: 75% }
 }
 
 /* The typewriter cursor effect */
