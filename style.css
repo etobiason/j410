@@ -267,7 +267,8 @@ a.text:hover, a.text:active {
 /* The typewriter cursor effect */
 @keyframes blink-caret {
   from, to { border-color: transparent }
-  50% { border-color: orange }
+  50% { border-color: purple }
+  position: relative
 }
 
 /*----------------Main Content Area(this is where all the content below the navigation bar will go)--*/
