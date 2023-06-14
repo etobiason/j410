@@ -239,9 +239,9 @@ a.text:hover, a.text:active {
 }
 
 .container {
-	position: relative;
+	position: center;
     background-image: url(img/main.jpg);
-    height: 100%;
+    height: 100vh;
     background-size: cover;
     background-position: 50% 50%;
 }
