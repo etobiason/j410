@@ -21,8 +21,8 @@ header {
 	z-index: 5; /*(ensures nav bar appears in front of other elements)*/
 	font-size: 1em;
     transition: top 0.2s ease-in-out;
-    background-color: #B9B59F;
-    opacity: 80%;
+    background-color: #dcded9;
+    opacity: 100%;
 }
 
 /*----------------navigation container-----------------*/
