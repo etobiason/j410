@@ -234,17 +234,6 @@ a.text:hover, a.text:active {
 
 /*----------------Main Image-----------------*/
 
-.image1 {
-	width: 100%;
-}
-
-.container {
-	position: relative;
-    background-image: url(img/main.jpg);
-    height: 100vh;
-    background-size: cover;
-    background-position: 50% 50%;
-}
 .typewriter h1 {
   color: #dcded9;
   font-family: 'American Typewriter';
@@ -270,6 +259,18 @@ a.text:hover, a.text:active {
   from, to { border-color: transparent }
   50% { border-color: purple }
   position: relative
+}
+
+.image1 {
+	width: 100%;
+}
+
+.container {
+	position: relative;
+    background-image: url(img/main.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: 50% 50%;
 }
 
 /*----------------Main Content Area(this is where all the content below the navigation bar will go)--*/
